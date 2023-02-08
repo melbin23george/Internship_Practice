@@ -1,0 +1,7 @@
+//swaping without third variable
+step1: start;
+step2: declare a,b;
+step3: read a,b;
+step5: a=a+b;b=a-b;a=a-b;
+step6: display a,b;
+ste7: stop;

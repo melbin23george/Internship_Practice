@@ -1,0 +1,20 @@
+//find the average,percentage and grade of a student with 5 subjects
+
+step1: start;
+step2: declare s1,s2,s3,s4,s5,avg,percentage,grade;
+step3: read s1,s2,s3,s4,s5;
+step4: avg=(s1+s2+s3+s4+s5)%5;
+        display avg;
+step5: percentage;
+        display percentage;
+step6: if marks is between(90-100)
+        display A grade;
+      else if marks is between(80-90)
+        dispaly B grade;
+      else if marks is between(70-80)
+        display c grade;
+      else if marks is between(60-70)
+        display D grade;
+      else
+        display fail;
+step6:stop;

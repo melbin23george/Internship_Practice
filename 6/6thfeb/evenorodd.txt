@@ -1,0 +1,13 @@
+// even or odd
+step1: start
+step2: declare n;
+step3: read n;
+step4: check if it is divisible by 2;
+       if(n%2==0):
+        display n is even
+        else
+        disply n is odd
+step5: stop
+
+
+        

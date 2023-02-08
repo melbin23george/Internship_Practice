@@ -1,0 +1,11 @@
+//negative or positive number
+step1: start
+step2: declare num;
+step3: read num
+step4: if num>0
+        display positive
+      else if num<0
+        display negative
+      else:
+        display zero
+step5:stop

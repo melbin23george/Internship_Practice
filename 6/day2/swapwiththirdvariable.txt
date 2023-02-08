@@ -1,0 +1,9 @@
+//swaping with third variable
+step1: start;
+step2: declare a,b,temp;
+step3: read a,b;
+step5: temp=a;
+        a=b;
+        b=temp;
+step6: display a,b;
+ste7: stop;

@@ -1,0 +1,10 @@
+//algorith to bake a cake
+step1: start
+step2: preheat the oven
+step3: gather the ingredients
+step4: mix the ingredients
+step5: pour the mixed ingredients into a baking pan
+step6: bake in the oven
+step7: check the consistence
+step8: wait until it is ready to eat
+step9: stop

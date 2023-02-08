@@ -1,0 +1,7 @@
+//area of the square
+step1: start
+step2: decalre side,area;
+step3: read side; 
+step4: area=side*side;
+step4: display area;
+step5: stop;
