@@ -1,0 +1,61 @@
+//usecase1 to read the book
+s1: start
+s2: go to library
+s3: search for the book u wish to read
+s4: if found continue to read
+    else
+    ask the librarian to help
+s5:stop
+
+
+//usecase2 to search for the books
+s1: start
+s2: go to library
+s3: search the book
+    if found continue
+    else
+    ask the librarian help
+s4: stop
+
+
+//usecase3 borrowing books
+s1: start
+s2: go to library
+s3: apply for library card
+s4: search for the book
+      if found contuine with step 5
+      else
+      ask the librarai help
+s5: submit ur library card
+    if u have library card go to step6
+    else go to step 3
+s6: get access
+s7:stop
+
+//usecase for arranginf books
+
+s1: start
+s2: collect the books
+s3: sort the books accordingly
+s4: arrange it in the rack
+s5: stop
+
+
+// assign number to the books
+s1: start
+s2: take the  books
+s3: arrange it accordingly
+s4: give the serial number
+s5: stop
+
+//usecase for returing the book
+s1: start
+s2: go to library
+s3: submit ur borrowed book
+s4: check the borrowed book for finding any defects after 
+    borrowing
+s5: if defects found
+      fine the borrower
+      else go to step6
+s6: return the library card
+s7: stop

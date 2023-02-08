@@ -1,0 +1,11 @@
+/print even numbers between 1 to n
+
+step1: start
+step2: declare i,n
+step3: read n
+step4: initialize i=2
+step5: check i value with n
+        if(i<n)is true then go to step6 if condition is           false go  to step7
+step6: if i%2==0
+       print i
+step7:stop

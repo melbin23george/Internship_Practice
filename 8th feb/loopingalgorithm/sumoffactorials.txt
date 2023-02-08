@@ -1,0 +1,19 @@
+//display sum of factors of a given number
+s1:start
+s2:declare i,n,sum
+s3:read n
+s4:initialize i=1sum=0
+s5:check i with n 
+    if i<=n/2 
+         goto step6
+    else
+         goto step9
+s6:check n  is divisible i or not
+     if n%i==0
+         goto step7
+    else 
+       goto step8
+s7:sum=sum+i
+s8:increment i value then goto step 5
+s9:display sum
+s10:stop

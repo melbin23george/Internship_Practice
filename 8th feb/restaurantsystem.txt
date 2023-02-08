@@ -1,0 +1,24 @@
+//usecases Algorithms restaurant management system:
+
+//usecase1:Order management algorithm
+s1: start
+s2: collect order from the customer from menu of the restaurant
+s3: check the availability of the food 
+s4: if not available inform to customer its not available
+s5: else give instruction to kitchen of the restaurant
+s6: stop
+
+//usecase2:Kitchen management algorithm
+s1:start
+s2:prepare the food using the proper measure
+s3:infrom the to availabilty of the dishes to employee s4:wait for the order from the employees 
+s5:once order is received prepare the food and keep in the kitchen
+s6:stop
+ 
+//usecase3: Employee management algorithm:
+s1:start
+s2:get the information about menu items and availability from the kitchen
+s3:if customer order food tell whether it is available or not
+s4:if available take order and give to kitchen and once done from kitchen serve the food to appropriate customer
+s5:if not available ask customer to change the dish
+s6:stop

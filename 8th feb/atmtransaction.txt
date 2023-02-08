@@ -1,0 +1,54 @@
+//Algorithms on ATM transactions :
+
+
+//uscase1: withdraw money
+s1: start
+s2: go to atm
+s3: insert your atm card
+s4: enter your pin
+s5: click on the withdraw option from the given set of 
+    options
+s6: enter the amount to be withdrawn
+s7: click next if the entered amount is true else clear 
+    and go to step6 
+s8: if sufficient amount is found then dispense the amount
+    else go to step6
+s9: stop
+
+//usecase2: Depositing the money
+s1: start
+s2: go to atm
+s3: insert ur atm card
+s4: enter ur pin
+s5: click on the deposit option from the given set of 
+    options
+s6: enter the amount to deposit
+s7: enter the number of notes with respect to 100,200,500,2000 in the given options
+s8: if the the details are crct then go to step9 else step6
+s9: keep the amount on the cash collecting area
+s10: get the recipet 
+s11: stop
+
+
+//usecase3: to check balance
+s1: start
+s2: go to atm
+s3: insert ur card
+s4: enter ur pin
+s5: if entered pin is crct then the go to step6 else go to step4
+s6: click on check balance option
+s7: view your balance
+s8: stop
+
+//usecase4: change pin
+s1: start
+s2: go to atm
+s3: insert your card
+s4: enter the pin
+s5: if entered pin is crct then the go to step6 else go to step4
+s6: click on change pin option
+s7: enter ur mobile number  
+s8:if entered mobile number id crct go to step9 else go to step7
+s9: enter your new pin
+s10: confirm your new pin
+s11: stop
